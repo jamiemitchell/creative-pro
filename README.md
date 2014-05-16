@@ -12,3 +12,10 @@ Website URL: http://wpspeak.com
 GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
 
 <h2>Installation</h2>
+
+<h2>Support</h2>
+
+<h2>Changelog</h2>
+
+<h3>1.0.1</h3>
+Initial release
