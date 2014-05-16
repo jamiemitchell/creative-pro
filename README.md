@@ -13,6 +13,8 @@ Theme demo: [Link here]
 
 <h2>Screenshot</h2>
 
+TO DO: Add screenshot here
+
 <h2>License</h2>
 
 GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
