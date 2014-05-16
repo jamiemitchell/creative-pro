@@ -11,6 +11,8 @@ Twitter: <a href="https://twitter.com/wpspeak" target="_blank">@WPSpeak</a>
 
 Theme demo: [Link here]
 
+<h2>Screenshot</h2>
+
 <h2>License</h2>
 
 GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,3 +34,9 @@ Being a free product, the Creative Pro theme is offered with limited support. If
 
 <h3>1.0.1</h3>
 Initial release
+
+<h2>Credits</h2>
+<ul>
+	<li><a href="http://wpspeak.com/go/studiopresscom/" target="_blank">StudioPress</a></li>
+	<li><a href="https://twitter.com/search?q=%23genesiswp&amp;src=savs" target="_blank">Genesis Framework Community</a></li>
+</ul>
