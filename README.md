@@ -4,6 +4,7 @@ Creative Pro Child Theme
 The Creative Pro Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at http://wpspeak.com/go/genesis-framework/
 
 Developed by WPSpeak
+
 Website URL: http://wpspeak.com
 
 <h2>License</h2>
