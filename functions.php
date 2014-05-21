@@ -135,7 +135,7 @@ function creative_post_meta_filter($post_meta) {
 	
 }
 
-//* Display custom tax in entry footer (Genesis Framework)
+//* Display custom tax in entry header (Genesis Framework)
 function creative_display_conditionals() {
 
 	if ( ! is_singular() ) {
@@ -200,7 +200,7 @@ function creative_remove_genesis_page_templates( $page_templates ) {
 }
 add_filter( 'theme_page_templates', 'creative_remove_genesis_page_templates' );
 
-//* Remove post meta and post info on single post type
+//* Remove post meta and post info on archive page and homepage
 add_action('genesis_before_loop','creative_tax_single');
 function creative_tax_single() {
 
