@@ -5,7 +5,7 @@ include_once( get_template_directory() . '/lib/init.php' );
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Creative Pro Theme' );
 define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/creative' );
-define( 'CHILD_THEME_VERSION', '1.0.1' );
+define( 'CHILD_THEME_VERSION', '1.0.2' );
 
 //* Enqueue Lato Google font
 add_action( 'wp_enqueue_scripts', 'creative_google_fonts' );
