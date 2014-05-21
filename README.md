@@ -37,6 +37,9 @@ Being a free product, the Creative Pro theme is offered with limited support. If
 <h3>1.0.1</h3>
 Initial release
 
+<h3>1.0.2</h3>
+Update some typos in functions description in <code>functions.php</code>
+
 <h2>Credits</h2>
 <ul>
 	<li><a href="http://wpspeak.com/go/studiopresscom/" target="_blank">StudioPress</a></li>
